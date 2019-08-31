@@ -1,7 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Simple reflection extension library</Description>
+    <Copyright>rajeev.punnalil@hotmail.com</Copyright>
+    <PackageProjectUrl>https://github.com/rajeev-punnalil/Nanosteps.Reflection</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rajeev-punnalil/Nanosteps.Reflection</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+    <Version>0.1.0</Version>
   </PropertyGroup>
 
 </Project>
