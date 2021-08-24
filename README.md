@@ -11,3 +11,5 @@ c. GetAssemblyVersion()<br/>
 a. GetEntryLocation()<br/>
 b. GetEntyRelativeLocation()<br/>
 c. GetEntyRelativeFile()<br/>
+
+https://www.buymeacoffee.com/rajeevpunnalil
